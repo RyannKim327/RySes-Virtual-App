@@ -1,18 +1,23 @@
 # RySes Virtual App
 > Is an application developed and designed as an encryption app.
-[x] String to Ascii
-[ ] Ascii to String
-[x] String to Binary
-[x] Binary to String
-[x] String to Hex
-[x] Hex to String
-[x] String to Base64
-[x] Base64 to String
-[x] String to Morse Code
-[ ] Morse Code to String
-[x] String to SHA-1
-[x] String to SHA-256
-[x] String to MD5
+
+/ String to Ascii
+  Ascii to String
+/ String to Binary
+/ Binary to String
+/ String to Hex
+/ Hex to String
+/ String to Base64
+/ Base64 to String
+/ String to Morse Code
+  Morse Code to String
+/ String to SHA-1
+/ String to SHA-256
+/ String to MD5
+
+| String      | Ascii | True     |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
 
 > With self customized android.widget.*
 
