@@ -1,7 +1,7 @@
 # RySes Virtual App
 > Is an application developed and designed as an encryption app.
 
-[/] String to Ascii
+- [x] String to Ascii
 
   Ascii to String
   
