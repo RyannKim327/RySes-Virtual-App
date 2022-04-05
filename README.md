@@ -3,29 +3,29 @@
 
 - [x] String to Ascii
 
-  Ascii to String
+- [] Ascii to String
   
-/ String to Binary
+- [x] String to Binary
 
-/ Binary to String
+- [x] Binary to String
 
-/ String to Hex
+- [x] String to Hex
 
-/ Hex to String
+- [x] Hex to String
 
-/ String to Base64
+- [x] String to Base64
 
-/ Base64 to String
+- [x] Base64 to String
 
-/ String to Morse Code
+- [x] String to Morse Code
 
-  Morse Code to String
+- [] Morse Code to String
   
-/ String to SHA-1
+- [x] String to SHA-1
 
-/ String to SHA-256
+- [x] String to SHA-256
 
-/ String to MD5
+- [x] String to MD5
 
 
 > With self customized android.widget.*
