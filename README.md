@@ -3,7 +3,7 @@
 
 - [x] String to Ascii
 
-- [] Ascii to String
+- [ ] Ascii to String
   
 - [x] String to Binary
 
@@ -19,7 +19,7 @@
 
 - [x] String to Morse Code
 
-- [] Morse Code to String
+- [ ] Morse Code to String
   
 - [x] String to SHA-1
 
