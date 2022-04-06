@@ -1,0 +1,33 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item
+		android:id="@+id/about"
+		android:title="about"/>
+	<item
+		android:title="Settings and Configurations">
+		<menu>
+			<item
+				android:id="@+id/clear"
+				android:title="clear inputs"/>
+			<item
+				android:id="@+id/save"
+				android:title="save converts"/>
+			<item
+				android:id="@+id/settings"
+				android:title="settings"/>
+		</menu>
+	</item>
+	<item
+		android:title="Share and Updates">
+		<menu>
+			<item
+				android:id="@+id/share"
+				android:title="Share on Facebook Lite"/>
+			<item
+				android:id="@+id/update"
+				android:title="Update"/>
+		</menu>
+	</item>
+	<item
+		android:id="@+id/feedback"
+		android:title="feedback"/>
+</menu>
