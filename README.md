@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # RySes Virtual App
 > Is an application developed and designed as an encryption app.
 
@@ -30,8 +29,3 @@
 
 
 > With self customized android.widget.*
-
-For the code, kindly check the app branch of this repository
-=======
-# RySes-Virtual-App
->>>>>>> 94b8cbe63610fa373cd0897a5f7d5688d575d6e4
