@@ -29,3 +29,9 @@
 
 
 > With self customized android.widget.*
+
+To clone this repo, kindly use
+```bash
+    git clone https://github.com/RyannKim327/RySes-Virtual-App.git
+```
+Or download the source directly.
